@@ -1,0 +1,5 @@
+s=document.createElement("script");s.src="http://localhost:8000/src/jquery.js";document.body.appendChild(s)
+s=document.createElement("script");s.src="http://localhost:8000/src/lodash.js";document.body.appendChild(s)
+s=document.createElement("script");s.src="http://localhost:8000/src/backbone.js";document.body.appendChild(s)
+s=document.createElement("script");s.src="http://localhost:8000/src/rappid.min.js";document.body.appendChild(s)
+s=document.createElement("script");s.src="http://localhost:8000/src/tree.js";document.body.appendChild(s)
